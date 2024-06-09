@@ -35,5 +35,5 @@
 
 | 抖音      | 微信视频号   |   B站   |   微信    |  QQ群    |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| <img src="/profile/二维码/抖音.jpg" width="150" height="150"> | <img src="/profile/二维码/微信视频号.png" width="150" height="150">  | <img src="/profile/二维码/抖音.jpg" width="150" height="150"> |  <img src="/profile/二维码/抖音.jpg" width="150" height="150"> |  <img src="/profile/二维码/抖音.jpg" width="150" height="150"> |
+| <img src="/profile/二维码/抖音.jpg" width="150" height="150"> | <img src="/profile/二维码/微信视频号.png" width="150" height="150">  | <img src="/profile/二维码/B站.png" width="150" height="150"> |  <img src="/profile/二维码/微信.png" width="150" height="150"> |  <img src="/profile/二维码/QQ群.png" width="150" height="150"> |
 
