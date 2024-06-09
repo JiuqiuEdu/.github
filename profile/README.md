@@ -35,7 +35,8 @@
 | 4 | <a id="HarmonyOS4">**《鸿蒙应用开发实战4》**</a> <br> <br> <img src="/profile/鸿蒙图书/【图书封面】鸿蒙4.png" width="452" height="568">      | [**京东购买**](https://item.jd.com/13066138.html) <br> <br> [**当当购买**](https://product.dangdang.com/29180052.html) |
 
 
-# <a id="Contact">技术交流-联系我们</a>
+# 技术交流
+<a id="Contact">**联系我们**</a>
 
 | 抖音      | 微信视频号   |   B站   |   微信    |  QQ群    |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
