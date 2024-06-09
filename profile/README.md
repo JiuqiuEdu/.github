@@ -17,7 +17,7 @@
 
 | 编号      | 图书                         |   链接    |
 |:----------:|:-----------------------------:|:----------:|
-| <a id="Cangjie1">1</a> | <img src="仓颉图书和视频/【图书封面】仓颉1.png" width="452" height="568">      | [**京东购买**](https://item.jd.com/13066138.html) <br> <br> [**当当购买**](https://product.dangdang.com/29180052.html) |
+| <a id="Cangjie1">1</a> | <img src="【图书封面】仓颉1.png" width="452" height="568">      | [**京东购买**](https://item.jd.com/13066138.html) <br> <br> [**当当购买**](https://product.dangdang.com/29180052.html) |
 | <a id="Cangjie2">2</a> | <img src="仓颉图书和视频/【图书封面】仓颉2.png" width="452" height="568">      | [**京东购买**](https://item.jd.com/13066138.html) <br> <br> [**当当购买**](https://product.dangdang.com/29180052.html) |
 | <a id="Cangjie3">3</a> | <img src="仓颉图书和视频/【图书封面】仓颉3.png" width="452" height="568">      | [**京东购买**](https://item.jd.com/13066138.html) <br> <br> [**当当购买**](https://product.dangdang.com/29180052.html) |
 | <a id="Cangjie4">4</a> | <img src="仓颉图书和视频/【图书封面】仓颉1.png" width="452" height="568">      | [**京东购买**](https://item.jd.com/13066138.html) <br> <br> [**当当购买**](https://product.dangdang.com/29180052.html) |
